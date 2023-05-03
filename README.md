@@ -26,7 +26,7 @@ Your README will now be visible on the main page of your repository. -->
 <img  src="assests/borderseperator.gif">
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+    <img src="https://komarev.com/ghpvc/?username=Gubintongxue&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
 <a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
@@ -51,7 +51,7 @@ Actively Going through:
 
 * ☕ Interest: Cats, Coffee, and Coding. <br><br>
 
-* :octocat: Hobbies: Sleeping, Coding, table tennis. <br><br>
+* :octocat: Hobbies: Sleeping, Coding, Table tennis. <br><br>
 
 <h2></h2><br>
 
@@ -61,13 +61,13 @@ Actively Going through:
 
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,linux,redis,mysql,docker" alt="skills actively learning logos"> <br> 
   <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=py,react,bootstrap,sass,ts,netlify" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=cpp,redis,mysql,linux,docker" alt="skills planning to learn logos">
 </div>
 
 <p align="center"><br>
-  <img align="center" src="assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
+  <img align="center" src="assests/lofi.gif" alt="Smart Boy drinking coffee coding" /> <br>
 </p>
   
 <div align="center">
@@ -75,7 +75,7 @@ Actively Going through:
   <img src="https://github-profile-trophy.vercel.app/?username=Gubintongxue&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
    <p>
-    <a href="https://www.codewars.com/users/HyunCafe">
+    <a href="https://www.codewars.com/users/Gubintongxue">
       <img src="https://github.r2v.ch/codewars?user=Gubintongxue&top_languages=true&theme=midnight_blue" height="200" alt="codewar stats" />
     </a>
   </p>
@@ -100,7 +100,7 @@ Actively Going through:
     <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
   </a> &nbsp;&nbsp;
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/HyunCafe" target="_blank">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/Gubintongxue" target="_blank">
     <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
   </a> &nbsp;&nbsp;
   

@@ -26,7 +26,7 @@ Your README will now be visible on the main page of your repository. -->
 
 
 <p align = 'center'>
-<a href="https://github.com/xiaodainiao"><img src="https://img.shields.io/badge/GitHub-xiaodainiao-blueviolet?logo=github">
+<a href="https://github.com/Gubintongxue"><img src="https://img.shields.io/badge/GitHub-Gubintongxue-blueviolet?logo=github">
 </a>
 
 </p>

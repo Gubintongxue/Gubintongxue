@@ -22,16 +22,20 @@ Once you've added all the content, scroll to the bottom of the page and click th
 
 Your README will now be visible on the main page of your repository. -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Gubin+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Gubin Welcome to my Profile! animated typed out">
-<img  src="assests/borderseperator.gif">
+<div align=center><img src="https://img-blog.csdnimg.cn/f56709e579474f4ba755541c6a29e920.jpeg"  width="60%" height="30%"  ></div>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Gubintongxue&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
-</p> <br>
 
-<a href="https://app.daily.dev/Gubintongxue"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="Gubintongxue's Dev Card" /></a>
+<p align = 'center'>
+<a href="https://github.com/xiaodainiao"><img src="https://img.shields.io/badge/GitHub-xiaodainiao-blueviolet?logo=github">
+</a>
 
-<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
+</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**You just work hard, the rest is up to time**
+
+<img align="right" src="https://img-blog.csdnimg.cn/6736943b22214f579b706ec296bb10f1.gif" width = "300">
+
+### Hello I am Gubin~
 
 * 🌳 I’m currently learning C++ and Linux ! <br> 
 Actively Going through:

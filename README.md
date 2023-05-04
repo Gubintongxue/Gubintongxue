@@ -118,6 +118,6 @@ Actively Going through:
   <a>
        <a href="https://discord.gg/sEmsVmdH2C" target="_blank">
     <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
-    <span>HyunSun#7206</span>
+    <span>Gubintongxue#7206</span>
       </a>
 </p> 

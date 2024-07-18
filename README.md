@@ -35,25 +35,25 @@ Your README will now be visible on the main page of your repository. -->
 
 <img align="right" src="https://img-blog.csdnimg.cn/6736943b22214f579b706ec296bb10f1.gif" width = "300">
 
-### Hello I am Gubin~
+### Hello I am Pisces~
 
 * 🌳 I’m currently learning C++ and Linux ! <br> 
 Actively Going through:
-  - 100 Devs with Leon
+  - C
   - The Odin Project: Fundamentals + Full Stack C++
-  - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br>
+  - Linux kernel  <br>
 
 * 🐾 I’m looking to network and make friends here! <br><br>
 
-* 🔭 My second year in graduate school [南京](https://github.com/Gubintongxue/github-profilinator)  
+* 🔭 I love [南京](https://github.com/Gubintongxue/github-profilinator)  
    
 * ❓ Ask me about anything related to me and related technologies  
   
-* ⚡ Fun fact: I'm looking for work ！ 
+* ⚡ Fun fact: Enhance life and Make Money ！ 
 
-* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
+* 🌊 2024 Goals: Work better and Learn more about Open Source projects <br><br>
 
-* ☕ Interest: Cats, Coffee, and Coding. <br><br>
+* ☕ Interest: Dogs, Coffee, and Coding. <br><br>
 
 * :octocat: Hobbies: Sleeping, Coding, Table tennis. <br><br>
 
